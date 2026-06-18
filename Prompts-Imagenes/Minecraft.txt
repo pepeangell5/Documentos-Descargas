@@ -1,0 +1,300 @@
+EDIT THE PROVIDED PHOTO, DO NOT REGENERATE THE PERSON FROM SCRATCH.
+
+Use the uploaded photo as the base image and modify the environment around the subject instead of recreating the person.
+
+PHOTO OF THE SAME PERSON FROM THE REFERENCE IMAGE.
+
+IDENTITY LOCKED.
+
+FACE PRESERVATION HIGHEST PRIORITY.
+
+NO FACE MODIFICATION.
+
+KEEP EXACTLY THE SAME FACE FROM THE REFERENCE PHOTO.
+
+Preservar exactamente:
+
+* misma cara
+* mismos lentes
+* misma gorra
+* misma nariz
+* mismos labios
+* misma mandíbula
+* mismos ojos
+* mismas cejas
+* mismos pómulos
+* misma frente
+* misma expresión
+* mismo tono de piel
+* misma forma de cabeza
+* misma estructura facial
+* misma identidad
+
+The original sunglasses must remain unchanged.
+
+The original hairstyle must remain unchanged.
+
+The original facial expression must remain unchanged.
+
+The original head shape must remain unchanged.
+
+The original skin texture must remain unchanged.
+
+The original face occupies at least 30% of the image height.
+
+Do not beautify.
+
+Do not change age.
+
+Do not replace the face.
+
+Do not create a different person.
+
+Create a hyper realistic Minecraft Ender Dragon battle cinematic scene.
+
+The same person from the reference image is standing heroically in The End dimension.
+
+The face must remain identical to the original reference image.
+
+The person is the main subject of the image.
+
+The person is facing directly toward the camera.
+
+The person's face is the primary focal point of the composition.
+
+Keep the original face, sunglasses, hairstyle, cap and expression as close as possible to the reference photo.
+
+Keep the original clothing from the reference image whenever possible.
+
+Only add subtle Minecraft-inspired equipment:
+
+* enchanted shoulder armor
+* explorer backpack
+* utility belt
+* enchanted accessories
+* survival gear
+
+Do not completely replace the original outfit.
+
+Scene environment:
+
+The End dimension.
+
+Massive obsidian pillars.
+
+Floating End island.
+
+Dark purple sky.
+
+Purple fog.
+
+Floating magical particles.
+
+End crystals on top of obsidian towers.
+
+Some crystals destroyed.
+
+Glowing End portal visible behind the person.
+
+Dragon egg near the portal.
+
+Endermen standing in the distance observing the battle.
+
+The Ender Dragon is flying aggressively above the battlefield.
+
+The Ender Dragon is visible in the background.
+
+The dragon is secondary.
+
+The person remains the main focus.
+
+The scene should feel like the final battle moments before victory.
+
+Epic atmosphere.
+
+Cinematic fantasy mood.
+
+Add iconic Minecraft elements:
+
+* Enchanted Diamond Sword
+* Bow
+* Ender Pearls
+* Eye of Ender
+* Totem of Undying
+* Golden Apples
+* Netherite Pickaxe
+* XP orbs
+* Dragon Egg
+* End Portal
+* End Crystals
+* Endermen
+* Purple magical particles
+
+The person is holding a glowing enchanted Diamond Sword.
+
+The sword emits subtle blue enchantment particles.
+
+Hero victory pose.
+
+Camera angle:
+
+Slightly low-angle cinematic portrait.
+
+The person is looking directly at the camera.
+
+Lighting:
+
+Purple magical illumination.
+
+Volumetric lighting.
+
+Soft cinematic shadows.
+
+Cold moonlit highlights.
+
+Epic fantasy atmosphere.
+
+High contrast.
+
+Realistic reflections on sunglasses.
+
+Volumetric mist.
+
+Floating XP particles.
+
+Add a realistic Minecraft inspired HUD.
+
+Top left:
+
+* Full hearts
+* Full armor icons
+
+Top right:
+
+* XP Level 99
+* Boss Bar labeled ENDER DRAGON
+
+Boss health nearly empty.
+
+Bottom center:
+
+* Minecraft Hotbar
+* Diamond Sword selected
+* Bow
+* Ender Pearls
+* Golden Apple
+* Totem of Undying
+* Dragon Egg
+* XP Bottles
+
+Above the Hotbar:
+
+Level 99
+
+Center screen:
+
+ACHIEVEMENT UNLOCKED
+
+FREE THE END
+
+The HUD should look exactly like a Minecraft interface integrated naturally into a DSLR photograph.
+
+The world should look like Minecraft brought into real life.
+
+Mix realistic photography with recognizable Minecraft voxel aesthetics.
+
+Ultra photorealistic.
+
+DSLR quality.
+
+8K realism.
+
+Award-winning photography.
+
+Epic Minecraft atmosphere.
+
+Ender Dragon final battle.
+
+Maximum facial similarity.
+
+Extreme identity preservation.
+
+Vertical 9:16.
+
+STRICT FACE PRESERVATION RULES:
+
+The generated person MUST remain identical to the reference image.
+
+DO NOT:
+
+* change the face
+* change the identity
+* replace the face
+* alter facial structure
+* alter jawline
+* alter nose
+* alter lips
+* alter eyes
+* alter eyebrows
+* alter cheekbones
+* alter forehead
+* alter skin tone
+* alter expression
+* alter age
+* beautify the face
+* apply beauty filters
+* generate a new face
+* create a different person
+* create identity drift
+* perform face morphing
+* perform face transformation
+* change sunglasses
+* change cap
+* change hairstyle
+
+AVOID:
+
+different person,
+changed face,
+altered identity,
+face replacement,
+different sunglasses,
+different cap,
+different hairstyle,
+wrong nose,
+wrong lips,
+wrong jawline,
+wrong skin tone,
+wrong eyes,
+wrong eyebrows,
+different facial structure,
+different cheekbones,
+different forehead,
+face morphing,
+face transformation,
+identity drift,
+generated face,
+beauty filter,
+younger face,
+older face,
+plastic skin,
+unrealistic face,
+blurry face,
+distorted face,
+cartoon face,
+anime style,
+full cartoon body,
+low quality,
+low resolution,
+extra limbs,
+bad anatomy,
+oversized head,
+helmet covering face,
+face covered by armor,
+face hidden by shadows.
+
+The face similarity to the reference image is more important than the environment, dragon, armor, weapons, game elements, HUD, lighting, composition, realism, or artistic style.
+
+FACE MATCH PRIORITY: MAXIMUM.
+
+IDENTITY PRESERVATION: MAXIMUM.

@@ -1,0 +1,224 @@
+EDIT THE PROVIDED PHOTO, DO NOT REGENERATE THE PERSON FROM SCRATCH.
+
+Use the uploaded photo as the base image and modify the environment around the subject instead of recreating the person.
+
+PHOTO OF THE SAME PERSON FROM THE REFERENCE IMAGE.
+
+IDENTITY LOCKED.
+
+FACE PRESERVATION HIGHEST PRIORITY.
+
+NO FACE MODIFICATION.
+
+KEEP EXACTLY THE SAME FACE FROM THE REFERENCE PHOTO.
+
+Preservar exactamente:
+
+* misma cara
+* mismos lentes
+* misma gorra
+* misma nariz
+* mismos labios
+* misma mandíbula
+* mismos ojos
+* mismas cejas
+* mismos pómulos
+* misma frente
+* misma expresión
+* mismo tono de piel
+* misma forma de cabeza
+* misma estructura facial
+* misma identidad
+
+Do not beautify.
+
+Do not change age.
+
+Do not replace the face.
+
+Do not create a different person.
+
+Create a hyper realistic GTA San Andreas inspired cinematic scene.
+
+The same person from the reference image is standing in Grove Street, Los Santos.
+
+The face must remain identical to the original reference image.
+
+The person is the main subject of the image.
+
+Keep the original face, sunglasses and cap as close as possible to the reference photo.
+
+The person is wearing realistic modern streetwear inspired by GTA San Andreas protagonists and Los Santos street culture.
+
+Scene environment:
+
+Grove Street.
+
+Orange sunset sky.
+
+Palm trees.
+
+Graffiti walls.
+
+Classic Los Santos neighborhood.
+
+Lowrider vehicles.
+
+Sports cars parked nearby.
+
+Street lights.
+
+Warm cinematic atmosphere.
+
+Urban environment inspired by GTA San Andreas.
+
+Add iconic GTA San Andreas elements:
+
+* sports car
+* lowrider
+* stacks of cash
+* spray paint cans
+* baseball bat
+* cellphone
+* money scattered on the ground
+* Grove Street Families members
+* Ballas members in the distance
+* street signs
+* urban graffiti
+
+The person is standing confidently in the middle of the street.
+
+Hero shot composition.
+
+Camera angle:
+
+Slightly low-angle cinematic portrait.
+
+The person is looking directly at the camera.
+
+Lighting:
+
+Golden hour sunset.
+
+Warm orange tones.
+
+Soft cinematic shadows.
+
+High contrast.
+
+Realistic reflections on sunglasses.
+
+Add a realistic GTA San Andreas inspired HUD:
+
+Top right:
+
+* money counter
+* health bar
+* armor bar
+* wanted stars
+
+Top left:
+
+* time indicator
+
+Bottom left:
+
+* circular minimap
+
+Center screen:
+
+MISSION PASSED
+
+* RESPECT
+
+The HUD should look like a modern realistic GTA San Andreas interface blended with DSLR photography.
+
+Ultra photorealistic.
+
+DSLR quality.
+
+8K realism.
+
+Award-winning photography.
+
+Realistic GTA San Andreas atmosphere.
+
+Maximum facial similarity.
+
+Extreme identity preservation.
+
+Vertical 9:16.
+
+STRICT FACE PRESERVATION RULES:
+
+The generated person MUST remain identical to the reference image.
+
+DO NOT:
+
+* change the face
+* change the identity
+* replace the face
+* alter facial structure
+* alter jawline
+* alter nose
+* alter lips
+* alter eyes
+* alter eyebrows
+* alter cheekbones
+* alter forehead
+* alter skin tone
+* alter expression
+* alter age
+* beautify the face
+* apply beauty filters
+* generate a new face
+* create a different person
+* create identity drift
+* perform face morphing
+* perform face transformation
+* change sunglasses
+* change cap
+
+AVOID:
+
+different person,
+changed face,
+altered identity,
+face replacement,
+different sunglasses,
+different cap,
+wrong nose,
+wrong lips,
+wrong jawline,
+wrong skin tone,
+wrong eyes,
+wrong eyebrows,
+different facial structure,
+different cheekbones,
+different forehead,
+face morphing,
+face transformation,
+identity drift,
+generated face,
+beauty filter,
+younger face,
+older face,
+plastic skin,
+unrealistic face,
+blurry face,
+distorted face,
+cartoon face,
+anime style,
+full cartoon body,
+low quality,
+low resolution,
+extra limbs,
+bad anatomy,
+oversized head,
+helmet covering face.
+
+The face similarity to the reference image is more important than the environment, clothing, vehicles, game elements, HUD, lighting, composition, realism, or artistic style.
+
+FACE MATCH PRIORITY: MAXIMUM.
+
+IDENTITY PRESERVATION: MAXIMUM.

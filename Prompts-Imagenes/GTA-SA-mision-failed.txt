@@ -1,0 +1,45 @@
+EDIT THE PROVIDED PHOTO, DO NOT REGENERATE THE PERSON FROM SCRATCH.
+
+PHOTO OF THE SAME PERSON FROM THE REFERENCE IMAGE, IDENTITY LOCKED, FACE PRESERVATION HIGHEST PRIORITY, NO FACE MODIFICATION.
+
+Mantener exactamente el mismo rostro de la imagen de referencia: mismos lentes, misma gorra, mismo tono de piel, forma de cara, nariz, labios, mandíbula, expresión facial, complexión e identidad. No embellecer, no cambiar edad, no cambiar estructura facial, no reemplazar la cara.
+
+Transforma la escena en una pantalla cinematográfica hiperrealista inspirada en GTA San Andreas “Mission Failed”.
+
+La persona aparece junto a un coche deportivo destruido y humeante en Grove Street, Los Santos.
+
+Atardecer naranja intenso característico de GTA San Andreas.
+
+Calles urbanas dañadas, asfalto sucio, humo, polvo, reflejos cálidos, grafitis en las paredes, palmeras, casas típicas de Grove Street, ambiente de pandillas de Los Santos.
+
+Alrededor aparecen miembros de Grove Street Families y Ballas observando desde la distancia.
+
+Agregar elementos en el suelo:
+billetes esparcidos, pistola caída, bate de béisbol, spray de graffiti, munición dispersa, teléfono antiguo y restos del vehículo.
+
+Añadir interfaz clásica inspirada en GTA San Andreas:
+
+Texto gigante en el centro:
+"MISSION FAILED"
+
+Debajo:
+"You Died"
+
+En la esquina superior derecha:
+hora estilo GTA, dinero, barra de vida y nivel de búsqueda con estrellas.
+
+En la esquina inferior izquierda:
+minimapa circular estilo GTA San Andreas.
+
+La interfaz debe verse como una captura realista de videojuego mezclada con fotografía DSLR.
+
+Color grading cinematográfico estilo GTA San Andreas.
+Iluminación dramática.
+Sombras realistas.
+Alto contraste.
+Atmósfera urbana cálida.
+Ultra photorealistic.
+DSLR.
+Vertical 9:16.
+
+IMPORTANT: the person must still look like the original reference photo, especially the face, sunglasses and cap.
